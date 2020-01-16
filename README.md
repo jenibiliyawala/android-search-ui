@@ -1,5 +1,5 @@
 # appbase-search-widget
-
+.
 ### Installation
 
 * Add the Jitpack.io dependency in project level gradle file
